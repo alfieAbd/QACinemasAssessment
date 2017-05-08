@@ -1,0 +1,9 @@
+Encapsulation is the process of combining data and operations on the data together in an entity.
+
+Inheritance in java is the behaviour of one object obtaining the characteristics and properties of a parent object.
+
+Polymorphism in java is the ability to create functions and reference variables that can behave differently in different
+contexts.
+
+Abstraction is the simplification of an entity which allows users to better understand the essentials of the entity
+being operated on.
